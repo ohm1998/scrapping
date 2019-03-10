@@ -2,8 +2,7 @@
 
 ## Using Beautiful Soup
 
-## Install bs4 using
-#### -> pip install bs4
+## Install [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) : 
 
 ## To run the Scrapper give the following command:
 
@@ -13,4 +12,4 @@
 #### File_name: The destination file in which all the data will be writen
 #### Place: The place for which you need the data
 ### Example Command:
-### python crawl.py "catering services" Mumbai 20 data.txt
+### ``` python crawl.py "catering services" Mumbai 20 data.txt ```
