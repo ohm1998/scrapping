@@ -1,8 +1,7 @@
 # Justdial.com Data Scrapper
 
-## Using Beautiful Soup
 
-## Install [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)  
+### Using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)  
 
 ## To run the Scrapper give the following command:
 
